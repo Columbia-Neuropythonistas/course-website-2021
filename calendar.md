@@ -7,7 +7,7 @@ description: Syllabus for Spring/Summer 2021
 
 # Course Calendar
 
-Topics and assignments subject to change.
+Materials will be updated regularly. Topics and assignments subject to change.
 
 ## Modules
 
