@@ -17,21 +17,21 @@ description: >-
 
 ---
 
-UPDATE: This page will be updated for Spring 2021 soon
 
-Spring 2020 |
+Spring 2021 |
 
 ## Course Description
 
-This course covers Python tools available to neuroscientists for data analysis and data pipeline building. The class will begin with four (optional) introductory courses for students who are less comfortable programming in Python; however, some basic familiarity with programming concepts will be useful.
+Learn  how  to  use  the  most  common  Python  packages  for  data  science!   Become confident in managing and analyzing your own data!
 
-The course number is NBHV7050GR. For those who would like to formally register, please email ak487@ before April 9th.
+## Course Dates
+Tuesday May 4th through Tuesday June 8th.
 
-## Lecture
+## Format
+11 classes lasting $<$1.5 hours each. We have redesigned the course to fit the flipped classroom format. Classes will begin with a short lecture ($\sim 30$ min) followed by exercise-based, interactive breakout room sessions of $\sim 4$ people. There won't be homework; those taking the course for credit are expected to attend the majority of classes and participate in group exercises. The first two lectures will be for people who have had no experience with Python whatsoever. Please feel free to join or skip classes depending on the material you are interested in!
 
-Lectures are Tuesdays and Thursdays from 10:00-11:30 am EST. The course begins on Thursday April 9th and ends on Thursday May 7th, 2020. There are 9 lectures total.
+## Courseworks
+Note that this course is listed in the Columbia Course Directory for Spring 2021 as "GR7050 Python for Handling Neuroscience Data." Those not officially registered can gain access to Courseworks as a student "observer" by emailing the instructors.
 
-
-## Assignments
-
-Bi-weekly lectures will be accompanied by short assignments.
+## Prerequisites
+Basic programming experience in R, python, or MATLAB is a plus, but not required.
