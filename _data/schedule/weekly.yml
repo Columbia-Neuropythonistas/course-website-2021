@@ -10,20 +10,19 @@ schedule:
     events:
       - name: Lecture
         class: lecture
-        start: 10:00 AM
-        end: 11:30 AM
+        start: 12:00 PM
+        end: 1:30 PM
         location: zoom
-        
-        
+
+
   - name: Wednesday
-    
+
   - name: Thursday
     events:
       - name: Lecture
         class: lecture
-        start: 10:00 AM
-        end: 11:30 AM
+        start: 12:00 PM
+        end: 1:30 PM
         location: zoom
-        
+
   - name: Friday
-    
