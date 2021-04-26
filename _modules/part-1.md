@@ -26,6 +26,8 @@ days:
   - date: 2020-05-13
     events:
       "**Linear Regression and Introduction to Classes in Python **":
-  
+
+  - date: 2021-05-18
+
 
 ---
