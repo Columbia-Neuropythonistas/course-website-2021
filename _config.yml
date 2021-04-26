@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Python for Neuroscientists
-description: Spring 2020 | a Python "nanocourse" for handling neuroscience data 
+description: Spring 2021 | a Python "minicourse" for managing and anlyzing neuroscience data
 author: Jacob
 email: jpp2139@columbia.edu
 url: 'https://neuropython.com'
@@ -28,7 +28,7 @@ heading_anchors: true
 permalink: pretty
 nav_links:
   Slack:
-    - 'https://join.slack.com/t/columbianeuro-azl5592/shared_invite/zt-d97xgbon-7mUYTQOT0mNtwkK9~n1RzQ'
+    - 'https://join.slack.com/t/columbianeuro-mkw1067/shared_invite/zt-pk8wdgzn-6kmAurNwyhc_FBw5b4YTxQ'
 aux_links:
   'Course Repo on GitHub':
     - 'https://github.com/Columbia-Neuropythonistas/PythonDataCourse'
