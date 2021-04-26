@@ -1,13 +1,11 @@
 ---
 title: Pre-class Announcement
 week: 0
-date: 2020-04-02
+date: 2021-04-26
 ---
 
-Pre-class slides are up - check them out in the course calendar page!
+Hi All,
 
-If you're already comfortable hosting Jupyter Notebooks locally and know the ins-and-outs of installing/importing Python packages, you can skip these :) If that all sounds a little dicey to you, give them a look before class!
-
-We're excited to see you all at 10am on April 9th - expect a link to the meeting before class starts.
+We will be starting the “Python for Neuroscience” mini-course next week on Tuesday, May 4th. Learn how to use the most common Python packages for data science, and become confident in managing and analyzing your own data! More information is in the tentative syllabus attached below. If you are interested, join our [slack channel](columbianeuro-mkw1067.slack.com)!
 
 {: .fs-5 }
