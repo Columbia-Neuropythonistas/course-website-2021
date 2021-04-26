@@ -5,13 +5,13 @@ days:
   - date: 2021-05-04
     events:
       "**Python Basics (Jessie)**":
-      <!---  "[Pre-Class Slides](/assets/slides/preclass.pdf),
-        [Class 1 Slides](/assets/slides/Lecture 1 Slides.pdf)"
-      "*[HW1: due 04/14](/assets/homework/Class 1 HW.pdf)*":
-      "**HW 1 out**{: .label .label-hw-out }":
-        null --->
+        "[Pre-Class Slides](),
+        [Class 1 Slides]()"
+      "*[Group Exercises]()*":
+      "**Group Exercises**{: .label .label-hw-out }":
+        null
 
-  - date: 2020-04-14
+  - date: 2021-05-06
     events:
       "**Plotting and Git (Jacob)**":
         "[Class 2: numpy slides](/assets/slides/lecture2-slides-numpy-arrays.pdf),[Class 2: matplotlib slides](/assets/slides/lecture2-slides-matplotlib.pdf), [Class 2: hw1 and git slides](/assets/slides/lecture2-slides-hw1+git.pdf),[numpy and matplotlib ipynb notebooks](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Lectures/Lecture2)"
@@ -22,7 +22,7 @@ days:
       "**HW 2 out**{: .label .label-hw-out }":
         null
 
-  - date: 2020-04-16
+  - date: 2020-05-11
     events:
       "**Scientific Programming Basics (Jessie)**":
         "[Class 3 Slides](/assets/slides/lecture3-slides-scientificprogramming.pdf),
