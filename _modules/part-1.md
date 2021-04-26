@@ -13,7 +13,7 @@ days:
 
   - date: 2021-05-06
     events:
-      "**Python Environments **":
+      "**Python Environments**":
         "[Class 2: numpy slides]()"
 
 
@@ -25,7 +25,7 @@ days:
 
   - date: 2020-05-13
     events:
-      "**Linear Regression and Introduction to Classes in Python **":
+      "**Linear Regression and Introduction to Classes in Python**":
 
   - date: 2021-05-18
 
