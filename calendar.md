@@ -2,7 +2,7 @@
 layout: page
 title: Course Calendar
 nav_order: 2
-description: Syllabus for Spring 2020
+description: Syllabus for Spring/Summer 2021
 ---
 
 # Course Calendar

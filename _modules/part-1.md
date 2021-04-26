@@ -2,14 +2,14 @@
 week: 1
 title: Introduction to Python
 days:
-  - date: 2020-04-09
+  - date: 2021-05-04
     events:
       "**Python Basics (Jessie)**":
-        "[Pre-Class Slides](/assets/slides/preclass.pdf),
+      <!---  "[Pre-Class Slides](/assets/slides/preclass.pdf),
         [Class 1 Slides](/assets/slides/Lecture 1 Slides.pdf)"
       "*[HW1: due 04/14](/assets/homework/Class 1 HW.pdf)*":
       "**HW 1 out**{: .label .label-hw-out }":
-        null
+        null --->
 
   - date: 2020-04-14
     events:
@@ -39,7 +39,7 @@ days:
       "**Linear Regression and Introduction to Classes in Python (Jacob)**":
         "[Class 4 Slides (.html)](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Lectures/Lecture4),[Class 4 Notebooks](https://github.com/Columbia-Neuropythonistas/PythonDataCourse/tree/master/Lectures/Lecture4)"
       "*[HW4 TBD](#)*":
-      
+
       "**HW 3 due**{: .label .label-hw-due }":
         null
       "**HW 4 out**{: .label .label-hw-out }":
