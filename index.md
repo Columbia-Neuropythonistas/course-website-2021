@@ -3,7 +3,7 @@ layout: home
 title: Home
 nav_order: 0
 description: >-
-    Python course for handling neuroscience data
+    Python course for managing and analyzing neuroscience data
 ---
 
 # {{ site.title }}
@@ -19,4 +19,3 @@ description: >-
 ## About the class
 
 This class hopes to share the tips and trips with Python that we think are most useful for neuroscientists.
-

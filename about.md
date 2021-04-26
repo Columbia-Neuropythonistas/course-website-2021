@@ -22,7 +22,7 @@ Spring 2021 |
 
 ## Course Description
 
-Learn  how  to  use  the  most  common  Python  packages  for  data  science!   Become confident in managing and analyzing your own data!
+Learn  how  to  use  the  most  common  Python  packages  for  data  science!   Become confident in managing and analyzing your own data! A tentative course syllabus can be found [here](assets/PythonCourseSyllabus.pdf)
 
 ## Course Dates
 Tuesday May 4th through Tuesday June 8th.
