@@ -18,7 +18,7 @@ description: >-
 ---
 
 
-Spring 2021 |
+Spring/Summer 2021 | Python for Neuroscientists
 
 ## Course Description
 
