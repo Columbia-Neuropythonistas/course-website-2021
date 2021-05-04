@@ -5,11 +5,12 @@ days:
   - date: 2021-05-04
     events:
       "**Python Basics - Numpy and Plotting (Jacob, Jessie)**":
-        "[Pre-Class Slides](),
-        [Class 1 Slides]()"
-      "*[Colab Notebook Part0: Python and Numpy ](https://colab.research.google.com/drive/1M_sizbXBHylV3qcNkjA1RP5ccVOd3dbU?usp=sharing)*":
 
-      
+      "*Colab Notebooks*":
+        "[Part0: Python and Numpy](https://colab.research.google.com/drive/1M_sizbXBHylV3qcNkjA1RP5ccVOd3dbU?usp=sharing)"
+        "[Part1: Matplotlib]()"
+
+
       "**Group Exercises**{: .label .label-hw-out }":
         null
 
