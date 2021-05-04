@@ -4,7 +4,7 @@ title: Introduction to Python
 days:
   - date: 2021-05-04
     events:
-      "**Lecture0: Python Basics - Numpy and Plotting (Jacob, Jessie)**":
+      "**Lecture0: Python Basics, Numpy, and Matplotlib (Jacob, Jessie)**":
 
       "*Colab Notebooks*":
         "[Part0: Python and Numpy](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture0/Lecture0_Python%2BNumpy.ipynb),[Part1: Matplotlib](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture0/Lecture0_Matplotlib.ipynb)"
