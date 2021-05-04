@@ -4,10 +4,10 @@ title: Introduction to Python
 days:
   - date: 2021-05-04
     events:
-      "**Python Basics - Numpy and Plotting (Jacob, Jessie)**":
+      "**Lecture0: Python Basics - Numpy and Plotting (Jacob, Jessie)**":
 
       "*Colab Notebooks*":
-        "[Part0: Python and Numpy](https://colab.research.google.com/drive/1M_sizbXBHylV3qcNkjA1RP5ccVOd3dbU?usp=sharing),[Part1: Matplotlib]()"
+        "[Part0: Python and Numpy](https://colab.research.google.com/drive/1M_sizbXBHylV3qcNkjA1RP5ccVOd3dbU?usp=sharing),[Part1: Matplotlib](https://colab.research.google.com/drive/10i5rnl4_2SPtg-5Mnwcv241f7HiOsfXd?usp=sharing)"
 
 
       "**Group Exercises**{: .label .label-hw-out }":
