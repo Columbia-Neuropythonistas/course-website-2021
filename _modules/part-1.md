@@ -7,7 +7,9 @@ days:
       "**Python Basics - Numpy and Plotting (Jacob, Jessie)**":
         "[Pre-Class Slides](),
         [Class 1 Slides]()"
-      "*[Group Exercises]()*":
+      "*[Colab Notebook Part0: Python and Numpy ](https://colab.research.google.com/drive/1M_sizbXBHylV3qcNkjA1RP5ccVOd3dbU?usp=sharing)*":
+
+      
       "**Group Exercises**{: .label .label-hw-out }":
         null
 
