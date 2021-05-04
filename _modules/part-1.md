@@ -7,7 +7,7 @@ days:
       "**Lecture0: Python Basics - Numpy and Plotting (Jacob, Jessie)**":
 
       "*Colab Notebooks*":
-        "[Part0: Python and Numpy](https://colab.research.google.com/drive/1M_sizbXBHylV3qcNkjA1RP5ccVOd3dbU?usp=sharing),[Part1: Matplotlib](https://colab.research.google.com/drive/10i5rnl4_2SPtg-5Mnwcv241f7HiOsfXd?usp=sharing)"
+        "[Part0: Python and Numpy](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture0/Lecture0_Python%2BNumpy.ipynb),[Part1: Matplotlib](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture0/Lecture0_Matplotlib.ipynb)"
 
 
       "**Group Exercises**{: .label .label-hw-out }":
