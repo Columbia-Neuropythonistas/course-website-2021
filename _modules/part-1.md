@@ -4,10 +4,10 @@ title: Introduction to Python
 days:
   - date: 2021-05-04
     events:
-      "**Lecture0: Python Basics, Numpy, and Matplotlib (Jacob, Jessie)**":
+      "**Lecture0: Python Basics, Numpy (Jacob, Jessie)**":
 
       "*Colab Notebooks*":
-        "[Part0: Python and Numpy](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture0/Lecture0_Python%2BNumpy.ipynb),[Part1: Matplotlib](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture0/Lecture0_Matplotlib.ipynb)"
+        "[Python and Numpy](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture0/Lecture0_Python%2BNumpy.ipynb)"
 
 
       "**Group Exercises**{: .label .label-hw-out }":
@@ -15,8 +15,8 @@ days:
 
   - date: 2021-05-06
     events:
-      "**Python Environments**":
-        "[Class 2: numpy slides]()"
+      "**Lecture1: Python basics, Matplotlib (Jacob, Jessie)**":
+        "[Matplotlib](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture1/Lecture1_Matplotlib.ipynb)"
 
 
       "**Group Exercises**{: .label .label-hw-out }":
