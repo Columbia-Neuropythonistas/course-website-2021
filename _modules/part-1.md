@@ -6,7 +6,7 @@ days:
     events:
       "**Lecture0: Python Basics and Numpy (Jacob, Jessie)**":
 
-      "*Colab Notebooks*":
+      "*Colab Notebook:*":
         "[Python and Numpy](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture0/Lecture0_Python%2BNumpy.ipynb)"
 
 
@@ -16,6 +16,8 @@ days:
   - date: 2021-05-06
     events:
       "**Lecture1: Python basics and Matplotlib (Jacob, Jessie)**":
+
+      "*Colab Notebook:*":
         "[Matplotlib](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture1/Lecture1_Matplotlib.ipynb)"
 
 
