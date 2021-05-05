@@ -26,10 +26,14 @@ Here are some Python resources that we have found to be particularly helpful
 
 ## Python Courses
 
+* [Software Carpentry](https://software-carpentry.org/)
+  * This educational nonprofit has great intro material for a [1-day Python course](https://swcarpentry.github.io/python-novice-inflammation/)
 * [Berkeley Python Course (2018)](https://github.com/profjsb/python-seminar/tree/master/DataFiles_and_Notebooks)
   * This comprehensive, semester-long course by Prof. Joshua Bloom is a fantastic resource for anyone interested in learning more about Python and data analysis. The lectures/notebooks here are detailed and well explained.
 * [Columbia Applied Machine Learning Course (2019)](http://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/)
   * The first few lectures by Andreas Muller give a nice introduction to git version control, plotting, and the sklearn library
+* [NeuroMatch Academy 2020](https://github.com/NeuromatchAcademy/course-content)
+  * This intense 3-week computational neuroscience course has fantastic resources, including Google colab exercises with solutions. They also have Python review material on their github page [here](https://github.com/NeuromatchAcademy/precourse)
 
 ## Libraries/Packages
 * [numpy](https://numpy.org/devdocs/user/quickstart.html) - for numerical matrix/array operations
