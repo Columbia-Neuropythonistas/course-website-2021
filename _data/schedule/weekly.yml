@@ -21,7 +21,7 @@ schedule:
     events:
       - name: Lecture
         class: lecture
-        start: 11:30 PM
+        start: 11:30 AM
         end: 1:00 PM
         location: zoom
 
