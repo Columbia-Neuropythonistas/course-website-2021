@@ -25,6 +25,14 @@ days:
         null
 
   - date: 2020-05-11
+      "**Lecture2: Introduction to Pandas (Jacob, Jessie)**":
+
+      "*Colab Notebook:*":
+        "[Pandas](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture2/Lecture2_pandas.ipynb)"
+
+
+      "**Group Exercises**{: .label .label-hw-out }":
+        null
 
 
   - date: 2020-05-13
