@@ -25,6 +25,7 @@ days:
         null
 
   - date: 2020-05-11
+    events:
       "**Lecture2: Introduction to Pandas (Jacob, Jessie)**":
 
       "*Colab Notebook:*":
