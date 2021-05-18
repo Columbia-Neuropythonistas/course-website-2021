@@ -51,6 +51,14 @@ days:
 
 
   - date: 2021-05-18
+    events:
+      "**Lecture2: Introduction to Pandas - Part 2 (Jessie, Gucky)**":
 
+      "*Colab Notebook:*":
+        "[Classes in Python](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture4/Lecture4_ClassesinPython.ipynb)"
+
+
+      "**Group Exercises**{: .label .label-hw-out }":
+        null
 
 ---
