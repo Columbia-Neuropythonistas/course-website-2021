@@ -4,6 +4,17 @@ title: Machine Learning and Data Pipelines
 days:
 
   - date: 2021-05-20
+  events:
+    "**Lecture5: Introduction to Supervised Learning (Elom)**":
+
+    "*Colab Notebook:*":
+      "[Supervised Learning](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture5/Lecture5_SupervisedLearning.ipynb)"
+
+
+    "**Group Exercises**{: .label .label-hw-out }":
+      null
+
+
 
   - date: 2021-05-25
 
