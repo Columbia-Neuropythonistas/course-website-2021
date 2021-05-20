@@ -8,9 +8,9 @@ days:
       "**Lecture5: Introduction to Supervised Learning (Elom)**":
 
       "*Colab Notebook:*":
-        "[Supervised Learning colab](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture5/Lecture5_SupervisedLearning.ipynb)"
+        "[Supervised Learning (colab)](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture5/Lecture5_SupervisedLearning.ipynb)"
       "*Slides:*":
-        "[Supervised Learning slides](https://github.com/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture5/SupervisedLearning.pdf)"
+        "[Supervised Learning (slides)](https://github.com/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture5/SupervisedLearning.pdf)"
 
 
       "**Group Exercises**{: .label .label-hw-out }":
