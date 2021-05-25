@@ -19,6 +19,16 @@ days:
 
 
   - date: 2021-05-25
+    events:
+      "**Lecture5: Introduction to Supervised Learning (Elom)**":
+
+      "*Colab Notebook:*":
+        "[Unsupervised Learning (colab)](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture6/Lecture6-Unsupervised.ipynb)"
+
+
+    "**Group Exercises**{: .label .label-hw-out }":
+      null
+
 
 
   - date: 2021-05-27
