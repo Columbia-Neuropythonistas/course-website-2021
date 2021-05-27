@@ -8,9 +8,9 @@ days:
       "**Lecture5: Introduction to Supervised Learning (Elom)**":
 
       "*Colab Notebook:*":
-        "[Supervised Learning (colab)](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture5/Lecture5_SupervisedLearning.ipynb)"
+        "[Supervised Learning](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture5/Lecture5_SupervisedLearning.ipynb)"
       "*Slides:*":
-        "[Supervised Learning (slides)](https://github.com/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture5/SupervisedLearning.pdf)"
+        "[Supervised Learning](https://github.com/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture5/SupervisedLearning.pdf)"
 
 
       "**Group Exercises**{: .label .label-hw-out }":
@@ -23,7 +23,7 @@ days:
       "**Lecture6: Introduction to Supervised Learning (Elom)**":
 
       "*Colab Notebook:*":
-        "[Unsupervised Learning (colab)](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture6/Lecture6-Unsupervised.ipynb)"
+        "[Unsupervised Learning](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture6/Lecture6-Unsupervised.ipynb)"
 
 
     "**Group Exercises**{: .label .label-hw-out }":
@@ -36,10 +36,10 @@ days:
       "**Lecture7: Review of numpy, functions and classes via linear regression (Jacob)**":
 
       "*Colab Notebook:*":
-        "[Review via Linear Regression (colab)](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture7/lecture7_classes%2Bregression.ipynb)"
+        "[Review via Linear Regression](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture7/lecture7_classes%2Bregression.ipynb)"
 
       "*Anaconda and Jupyter Noteboks:*":
-        "[Background slides]"(/assets/slides/preclass.pdf)
+        "[Python Environments]"(/assets/slides/preclass.pdf)
 
 
     "**Group Exercises**{: .label .label-hw-out }":
