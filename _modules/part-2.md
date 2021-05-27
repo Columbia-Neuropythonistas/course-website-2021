@@ -20,7 +20,7 @@ days:
 
   - date: 2021-05-25
     events:
-      "**Lecture5: Introduction to Supervised Learning (Elom)**":
+      "**Lecture6: Introduction to Supervised Learning (Elom)**":
 
       "*Colab Notebook:*":
         "[Unsupervised Learning (colab)](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture6/Lecture6-Unsupervised.ipynb)"
@@ -32,6 +32,15 @@ days:
 
 
   - date: 2021-05-27
+    events:
+      "**Lecture7: Review of numpy, functions and classes via linear regression (Jacob)**":
+
+      "*Colab Notebook:*":
+        "[Review via Linear Regression (colab)](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture7/lecture7_classes%2Bregression.ipynb)"
+
+
+    "**Group Exercises**{: .label .label-hw-out }":
+      null
 
 
   - date: 2021-06-01
