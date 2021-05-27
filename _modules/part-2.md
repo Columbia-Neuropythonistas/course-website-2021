@@ -38,8 +38,8 @@ days:
       "*Colab Notebook:*":
         "[Review via Linear Regression](https://colab.research.google.com/github/Columbia-Neuropythonistas/PythonDataCourse2021/blob/main/Lecture7/lecture7_classes%2Bregression.ipynb)"
 
-      "*Anaconda and Jupyter Noteboks:*":
-        "[Python Environments](assets/slides/preclass.pdf)"
+      "*Anaconda and Jupyter:*":
+        "[Python Environments](/assets/slides/preclass.pdf)"
 
 
     "**Group Exercises**{: .label .label-hw-out }":
